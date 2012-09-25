@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="slide_duration">
+        <item quantity="other">%s secs</item>
+        <item quantity="one">%s 秒</item>
+        <item quantity="few">%s secs</item>
+    </plurals>
+    <plurals name="search_results_title">
+        <item quantity="other">%1$s个%2$s结果</item>
+        <item quantity="one">为%2$s找到%1$s个结果</item>
+    </plurals>
+    <plurals name="Conversation_count">
+        <item quantity="other">%d个对话</item>
+        <item quantity="one">%d 个会话</item>
+    </plurals>
+    <plurals name="recipient_more">
+        <item quantity="other">%1$s及%2$d</item>
+        <item quantity="one">%s及另外1个</item>
+    </plurals>
+    <plurals name="successful_copy_to_sdcard">
+        <item quantity="other">附件已复制到 SD 卡</item>
+        <item quantity="one">附件已复制到 SD 卡</item>
+    </plurals>
+    <plurals name="failed_copy_to_sdcard">
+        <item quantity="other">将附件拷贝至 SD 卡失败</item>
+        <item quantity="one">无法将附件复制到 SD 卡</item>
+    </plurals>
+</resources>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="slide_duration">
+        <item quantity="other">%s secs</item>
+        <item quantity="one">%s dtk</item>
+        <item quantity="few">%s secs</item>
+    </plurals>
+    <plurals name="search_results_title">
+        <item quantity="other">%1$s hasil untuk %2$s</item>
+        <item quantity="one">1 hasil untuk %s</item>
+    </plurals>
+    <plurals name="Conversation_count">
+        <item quantity="other">%d percakapan</item>
+        <item quantity="one">%d percakapan</item>
+    </plurals>
+    <plurals name="recipient_more">
+        <item quantity="other">%1$s dan %2$d lagi</item>
+        <item quantity="one">%s dan 1 lagi</item>
+    </plurals>
+    <plurals name="successful_copy_to_sdcard">
+        <item quantity="other">Lampiran disalin ke kartu SD</item>
+        <item quantity="one">Lampiran disalin ke kartu SD</item>
+    </plurals>
+    <plurals name="failed_copy_to_sdcard">
+        <item quantity="other">Gagal menyalin lampiran ke kartu SD</item>
+        <item quantity="one">Gagal menyalin lampiran ke kartu SD</item>
+    </plurals>
+</resources>

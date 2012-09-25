@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="default_smiley_names">
+        <item>Senang</item>
+        <item>Sedih</item>
+        <item>Mengedip</item>
+        <item>Lidah terjulur</item>
+        <item>Terkejut</item>
+        <item>Berciuman</item>
+        <item>Bersorak</item>
+        <item>Keren</item>
+        <item>Mulut uang</item>
+        <item>Kaki di mulut</item>
+        <item>Malu</item>
+        <item>Malaikat</item>
+        <item>Tak diputuskan</item>
+        <item>Menangis</item>
+        <item>Bibir terkunci</item>
+        <item>Tertawa</item>
+        <item>Bingung</item>
+        <item>Hati</item>
+        <item>Marah</item>
+        <item>Menyeringai</item>
+        <item>Wajah datar</item>
+    </string-array>
+    <string-array name="select_dialog_items">
+        <item>1 detik</item>
+        <item>2 detik</item>
+        <item>3 detik</item>
+        <item>4 detik</item>
+        <item>5 detik</item>
+        <item>6 seconds</item>
+        <item>7 seconds</item>
+        <item>8 detik</item>
+        <item>9 seconds</item>
+        <item>10 detik</item>
+        <item>Lainnya...</item>
+    </string-array>
+    <string-array name="pref_entries_font_size">
+        <item>Gunakan ukrn hrf prangkat</item>
+        <item>Sangat besar</item>
+        <item>Besar</item>
+        <item>Normal</item>
+        <item>Kecil</item>
+        <item>Sangat kecil</item>
+    </string-array>
+    <string-array name="pref_entries_cb_selection">
+        <item>Semua saluran</item>
+        <item>Saluran Saya</item>
+    </string-array>
+    <string-array name="pref_entries_sms_input_mode">
+        <item>GSM alphabet</item>
+        <item>Unicode</item>
+        <item>Otomatis</item>
+    </string-array>
+    <string-array name="pref_entries_sms_expiry_date">
+        <item>0 day</item>
+        <item>1 hari</item>
+        <item>2 hari</item>
+        <item>3 hari</item>
+    </string-array>
+    <string-array name="pref_entries_mms_creation_mode">
+        <item>Terbatas</item>
+        <item>Peringatan</item>
+        <item>Bebas</item>
+    </string-array>
+    <string-array name="pref_entries_service_loading_action">
+        <item>Selalu</item>
+        <item>Tanyakan</item>
+        <item>Tdk pernah</item>
+    </string-array>
+    <string-array name="pref_entries_message_skin">
+        <item>Biru</item>
+        <item>Coklat</item>
+        <item>Evergreen</item>
+        <item>Mono</item>
+        <item>Riang</item>
+    </string-array>
+    <string-array name="pref_entries_text_field_color">
+        <item>Hitam</item>
+        <item>Putih</item>
+    </string-array>
+    <string-array name="prefEntries_vibrateWhen">
+        <item>Selalu</item>
+        <item>Hanya dlm mode Hening</item>
+        <item>Tdk pernah</item>
+    </string-array>
+</resources>

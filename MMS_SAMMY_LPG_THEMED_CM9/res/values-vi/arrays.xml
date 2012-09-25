@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="default_smiley_texts">
+        <item>:-)</item>
+        <item>:-(</item>
+        <item>;-)</item>
+        <item>:-P</item>
+        <item>=-O</item>
+        <item>:-*</item>
+        <item>:O</item>
+        <item>B-)</item>
+        <item>:-$</item>
+        <item>:-!</item>
+        <item>:-[</item>
+        <item>O:-)</item>
+        <item>:-\\</item>
+        <item>":'("</item>
+        <item>:-X</item>
+        <item>:-D</item>
+        <item>o_O</item>
+        <item>&amp;amp;amp;amp;lt;3</item>
+        <item>x-(</item>
+        <item>:-/</item>
+        <item>:-|</item>
+    </string-array>
+    <string-array name="default_smiley_names">
+        <item>Hạnh phúc</item>
+        <item>Buồn</item>
+        <item>Nháy mắt</item>
+        <item>Lè lưỡi</item>
+        <item>Ngạc nhiên</item>
+        <item>Hôn</item>
+        <item>Mắng nhiếc</item>
+        <item>Cool</item>
+        <item>Ngậm tiền</item>
+        <item>Lỡ lời</item>
+        <item>Ngượng ngùng</item>
+        <item>Thiên thần</item>
+        <item>Chưa quyết định</item>
+        <item>Khóc</item>
+        <item>Giữ bí mật</item>
+        <item>Cười to</item>
+        <item>Bối rối</item>
+        <item>Trái tim</item>
+        <item>Tức điên</item>
+        <item>Cười ngớ ngẩn</item>
+        <item>Mặt hề</item>
+    </string-array>
+    <string-array name="select_dialog_items">
+        <item>1 giây</item>
+        <item>2 giây</item>
+        <item>3 giây</item>
+        <item>4 giây</item>
+        <item>5 giây</item>
+        <item>6 seconds</item>
+        <item>7 seconds</item>
+        <item>8 giây</item>
+        <item>9 seconds</item>
+        <item>10 giây</item>
+        <item>Khác...</item>
+    </string-array>
+    <string-array name="pref_entries_font_size">
+        <item>Sử dụng cỡ chữ của thiết bị</item>
+        <item>Rất lớn</item>
+        <item>Lớn</item>
+        <item>Bình thường</item>
+        <item>Nhỏ</item>
+        <item>Rất nhỏ</item>
+    </string-array>
+    <string-array name="pref_entries_cb_selection">
+        <item>Tất cả các kênh</item>
+        <item>Kênh của Tôi</item>
+    </string-array>
+    <string-array name="pref_entries_sms_input_mode">
+        <item>Ký tự GSM</item>
+        <item>Unicode</item>
+        <item>Tự động</item>
+    </string-array>
+    <string-array name="pref_entries_sms_expiry_date">
+        <item>0 day</item>
+        <item>1 ngày</item>
+        <item>2 ngày</item>
+        <item>3 ngày</item>
+    </string-array>
+    <string-array name="pref_entries_mms_creation_mode">
+        <item>Hạn chế</item>
+        <item>Cảnh báo</item>
+        <item>Tự do</item>
+    </string-array>
+    <string-array name="pref_entries_service_loading_action">
+        <item>Luôn luôn</item>
+        <item>Hỏi trước</item>
+        <item>Không bao giờ</item>
+    </string-array>
+    <string-array name="pref_entries_message_skin">
+        <item>Xanh dương</item>
+        <item>Nâu</item>
+        <item>Evergreen</item>
+        <item>Đơn</item>
+        <item>Joypop</item>
+    </string-array>
+    <string-array name="pref_entries_text_field_color">
+        <item>Đen</item>
+        <item>Trắng</item>
+    </string-array>
+    <string-array name="prefEntries_vibrateWhen">
+        <item>Luôn luôn</item>
+        <item>Chỉ ở chế độ Yên lặng</item>
+        <item>Không bao giờ</item>
+    </string-array>
+</resources>

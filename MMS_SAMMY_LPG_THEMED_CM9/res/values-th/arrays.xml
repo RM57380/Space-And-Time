@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="default_smiley_names">
+        <item>ความ​สุข</item>
+        <item>เศร้า</item>
+        <item>ขยิบ​ตา</item>
+        <item>แลบ​ลิ้น</item>
+        <item>แปลก​ใจ</item>
+        <item>กำลัง​จูบ</item>
+        <item>ตะโกน</item>
+        <item>ใจเย็น</item>
+        <item>ปากเป็นรูปเงิน</item>
+        <item>เท้า​อยู่​ใน​ปาก</item>
+        <item>เขิน​อาย</item>
+        <item>นาง​ฟ้า</item>
+        <item>ตัดสิน​ใจ​ไม่​ได้</item>
+        <item>ร้องไห้</item>
+        <item>ปิด​ปาก</item>
+        <item>หัวเราะ</item>
+        <item>สับสน</item>
+        <item>หัวใจ</item>
+        <item>บ้า</item>
+        <item>ยิ้ม​เยาะ</item>
+        <item>หน้า​เฉย</item>
+    </string-array>
+    <string-array name="select_dialog_items">
+        <item>1 ​วินาที</item>
+        <item>2 ​วินาที</item>
+        <item>3 วินาที</item>
+        <item>4 วินาที</item>
+        <item>5 ​วินาที</item>
+        <item>6 seconds</item>
+        <item>7 seconds</item>
+        <item>8 ​วินาที</item>
+        <item>9 seconds</item>
+        <item>10 วินาที</item>
+        <item>อื่นๆ...</item>
+    </string-array>
+    <string-array name="pref_entries_font_size">
+        <item>ใช้​ขนาด​แบบ​อักษร​ของ​อุปกรณ์</item>
+        <item>ใหญ่​มาก</item>
+        <item>ใหญ่</item>
+        <item>ปกติ</item>
+        <item>เล็ก</item>
+        <item>จิ๋ว</item>
+    </string-array>
+    <string-array name="pref_entries_cb_selection">
+        <item>สถานีทั้งหมด</item>
+        <item>สถานี​ส่วนตัว</item>
+    </string-array>
+    <string-array name="pref_entries_sms_input_mode">
+        <item>ชุดตัวอักษร GSM</item>
+        <item>ยู​นิ​โค้ด</item>
+        <item>อัตโนมัติ</item>
+    </string-array>
+    <string-array name="pref_entries_sms_expiry_date">
+        <item>0 day</item>
+        <item>1 ​วัน</item>
+        <item>2 ​วัน</item>
+        <item>3 ​วัน</item>
+    </string-array>
+    <string-array name="pref_entries_mms_creation_mode">
+        <item>จำกัด</item>
+        <item>เตือน</item>
+        <item>ฟรี</item>
+    </string-array>
+    <string-array name="pref_entries_service_loading_action">
+        <item>ตลอดเวลา</item>
+        <item>เตือน​ก่อน</item>
+        <item>ไม่</item>
+    </string-array>
+    <string-array name="pref_entries_message_skin">
+        <item>สี​น้ำเงิน</item>
+        <item>สี​น้ำตาล</item>
+        <item>เอ​เวอร์กรี​น</item>
+        <item>โม​โน</item>
+        <item>จอ​ยป๊​อบ</item>
+    </string-array>
+    <string-array name="pref_entries_text_field_color">
+        <item>ดำ</item>
+        <item>ขาว</item>
+    </string-array>
+    <string-array name="prefEntries_vibrateWhen">
+        <item>ทุก​ครั้ง</item>
+        <item>เฉพาะ​ใน​โหมด​ปิด​เสียง</item>
+        <item>ไม่</item>
+    </string-array>
+</resources>

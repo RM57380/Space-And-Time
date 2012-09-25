@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="slide_duration">
+        <item quantity="other">%s secs</item>
+        <item quantity="one">%s giây</item>
+        <item quantity="few">%s secs</item>
+    </plurals>
+    <plurals name="search_results_title">
+        <item quantity="other">%1$s kết quả của %2$s</item>
+        <item quantity="one">1 kết quả cho %s</item>
+    </plurals>
+    <plurals name="Conversation_count">
+        <item quantity="other">%d hội thoại</item>
+        <item quantity="one">%d hội thoại</item>
+    </plurals>
+    <plurals name="recipient_more">
+        <item quantity="other">%1$s và %2$d mục nữa</item>
+        <item quantity="one">%s và 1 nữa</item>
+    </plurals>
+    <plurals name="successful_copy_to_sdcard">
+        <item quantity="other">Phần đính kèm đã được chép vào thẻ SD</item>
+        <item quantity="one">File đính kèm đã được chép vào thẻ nhớ SD</item>
+    </plurals>
+    <plurals name="failed_copy_to_sdcard">
+        <item quantity="other">Không chép được các phần đính kèm vào thẻ SD</item>
+        <item quantity="one">Không chép được phần đính kèm vào thẻ SD</item>
+    </plurals>
+</resources>

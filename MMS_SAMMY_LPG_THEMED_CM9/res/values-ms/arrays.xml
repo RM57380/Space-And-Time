@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="default_smiley_texts">
+        <item>:-)</item>
+        <item>:-(</item>
+        <item>;-)</item>
+        <item>:-P</item>
+        <item>=-O</item>
+        <item>:-*</item>
+        <item>:O</item>
+        <item>B-)</item>
+        <item>:-$</item>
+        <item>:-!</item>
+        <item>:-[</item>
+        <item>O:-)</item>
+        <item>:-\\</item>
+        <item>":'("</item>
+        <item>:-X</item>
+        <item>:-D</item>
+        <item>o_O</item>
+        <item>&amp;amp;amp;amp;lt;3</item>
+        <item>x-(</item>
+        <item>:-/</item>
+        <item>:-|</item>
+    </string-array>
+    <string-array name="default_smiley_names">
+        <item>Gembira</item>
+        <item>Sedih</item>
+        <item>Kenyitan mata</item>
+        <item>Lidah terjulur</item>
+        <item>Terkejut</item>
+        <item>Mencium</item>
+        <item>Pekikan</item>
+        <item>Menarik</item>
+        <item>Mulut duit</item>
+        <item>Kaki dalam mulut</item>
+        <item>Malu</item>
+        <item>Bidadari</item>
+        <item>Teragak-agak</item>
+        <item>Menangis</item>
+        <item>Tutup mulut</item>
+        <item>Ketawa</item>
+        <item>Keliru</item>
+        <item>Jantung</item>
+        <item>Gila</item>
+        <item>Sinis</item>
+        <item>Muka selamba</item>
+    </string-array>
+    <string-array name="select_dialog_items">
+        <item>1 saat</item>
+        <item>2 saat</item>
+        <item>3 saat</item>
+        <item>4 saat</item>
+        <item>5 saat</item>
+        <item>6 seconds</item>
+        <item>7 seconds</item>
+        <item>8 saat</item>
+        <item>9 seconds</item>
+        <item>10 saat</item>
+        <item>Lain...</item>
+    </string-array>
+    <string-array name="pref_entries_font_size">
+        <item>Guna saiz fon peranti</item>
+        <item>Sangat besar</item>
+        <item>Besar</item>
+        <item>Biasa</item>
+        <item>Kecil</item>
+        <item>Sangat kecil</item>
+    </string-array>
+    <string-array name="pref_entries_cb_selection">
+        <item>Semua saluran</item>
+        <item>Saluran Saya</item>
+    </string-array>
+    <string-array name="pref_entries_sms_input_mode">
+        <item>Abjad GSM</item>
+        <item>Unikod</item>
+        <item>Automatik</item>
+    </string-array>
+    <string-array name="pref_entries_sms_expiry_date">
+        <item>0 day</item>
+        <item>1 hari</item>
+        <item>2 hari</item>
+        <item>3 hari</item>
+    </string-array>
+    <string-array name="pref_entries_mms_creation_mode">
+        <item>Terhad</item>
+        <item>Amaran</item>
+        <item>Bebas</item>
+    </string-array>
+    <string-array name="pref_entries_service_loading_action">
+        <item>Selalu</item>
+        <item>Tanya</item>
+        <item>Tidak pernah</item>
+    </string-array>
+    <string-array name="pref_entries_message_skin">
+        <item>Biru</item>
+        <item>Perang</item>
+        <item>Evergreen</item>
+        <item>Mono</item>
+        <item>Joypop</item>
+    </string-array>
+    <string-array name="pref_entries_text_field_color">
+        <item>Hitam</item>
+        <item>Putih</item>
+    </string-array>
+    <string-array name="prefEntries_vibrateWhen">
+        <item>Selalu</item>
+        <item>Hanya dlm mod Senyap</item>
+        <item>Tidak pernah</item>
+    </string-array>
+</resources>

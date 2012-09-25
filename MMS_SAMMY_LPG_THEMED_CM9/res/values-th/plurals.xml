@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="slide_duration">
+        <item quantity="other">%s secs</item>
+        <item quantity="one">%s ​วินาที</item>
+        <item quantity="few">%s secs</item>
+    </plurals>
+    <plurals name="search_results_title">
+        <item quantity="other">ผลลัพธ์ %1$s ​ของ %2$s</item>
+        <item quantity="one">%1$s ​ผลลัพธ์​ของ %2$s</item>
+    </plurals>
+    <plurals name="Conversation_count">
+        <item quantity="other">%d ​การส​นท​นา</item>
+        <item quantity="one">%d ​การส​นท​นา</item>
+    </plurals>
+    <plurals name="recipient_more">
+        <item quantity="other">%1$s ​และ %2$d ​มากกว่า​นั้น</item>
+        <item quantity="one">%s ​และ​อีก 1 ​ราย</item>
+    </plurals>
+    <plurals name="successful_copy_to_sdcard">
+        <item quantity="other">ไฟล์​แนบ​คัด​ลอก​ไป​ยัง SD ​การ์ด</item>
+        <item quantity="one">ไฟล์​แแ​นบ​คัด​ลอก​ไป​ยัง SD ​​​การ์ด</item>
+    </plurals>
+    <plurals name="failed_copy_to_sdcard">
+        <item quantity="other">คัด​ลอก​ไฟล์​แนบ​ลง​ใน SD ​การ์ด​ไม่​สำเร็จ</item>
+        <item quantity="one">คัด​ลอก​ไฟล์​แนบ​ลง​ใน SD ​การ์ด​ไม่​สำเร็จ</item>
+    </plurals>
+</resources>
